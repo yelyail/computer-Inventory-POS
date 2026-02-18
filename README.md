@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Computer Inventory and POS system</title>
-</head>
+
 <body>
 <p>
 A web-based Inventory and Point of Sale (POS) Management System developed using 
