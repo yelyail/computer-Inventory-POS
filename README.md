@@ -1,5 +1,5 @@
+<p align="center"> <h1 align="center"> Computer Inventory and POS</h1> </p>
 
-<body>
 <p>
 A web-based Inventory and Point of Sale (POS) Management System developed using 
 <strong>Laravel</strong>, <strong>Blade</strong>, and <strong>Tailwind CSS</strong>.
